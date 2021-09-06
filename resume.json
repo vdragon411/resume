@@ -1,0 +1,142 @@
+{
+  "selectedTemplate": 3,
+  "headings": {
+    "work": "",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Personal Details"
+  },
+  "basics": {
+    "name": "Vinay Patil",
+    "email": "vinaypatil41198@gmail.com",
+    "phone": "9833022616, 9137097069",
+    "location": {
+      "address": "Vashi, Navi Mumbai"
+    }
+  },
+  "education": [
+    {
+      "location": "Smt. Indira Gandhi College of Engineering, Ghansoli",
+      "area": "Computer Entineering",
+      "studyType": "B.E.",
+      "gpa": "7.64",
+      "institution": "Mumbai University",
+      "startDate": "Jun 2016",
+      "endDate": "Oct 2020"
+    },
+    {
+      "institution": "H.S.C",
+      "location": "K.B.P College, Vashi",
+      "area": "Computer Vocational",
+      "gpa": "71.23%",
+      "startDate": "Jun 2014",
+      "endDate": "May 2016"
+    },
+    {
+      "institution": "S.S.C",
+      "location": "I.C.L High School, Vashi",
+      "gpa": "83.6%",
+      "endDate": "March 2014"
+    }
+  ],
+  "work": [
+    {
+      "company": "",
+      "location": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "C#",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "SQL"
+      ],
+      "name": "Programming Languages:"
+    },
+    {
+      "keywords": [
+        "Linux"
+      ],
+      "name": "Operating Systems:"
+    },
+    {
+      "keywords": [
+        "Unity",
+        "Unreal Engine 4",
+        "Godot"
+      ],
+      "name": "Game Development Engines:"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Pseudocode to Python Translation using Machine Learning (BE project)",
+      "url": "",
+      "keywords": [
+        null
+      ],
+      "description": "A Python program which translates pseudocode into python using modified sequential Seq2Seq model using Keras and Tensorflow."
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Chatbot using Machine Learning (TE project)",
+      "description": "A chatbot application written in Python, made using Sequence-to-Sequence Model in Tensorflow."
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Social Networking website using PHP, MySQL and Bootstrap.",
+      "description": "A website for sending messages. Option for sending tweets-like global posts and private messages. Mechanism for adding and deleting friends."
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "3D Procedural Terrain generation using OpenGL in Java.",
+      "description": "Created an application to programmatically generate pseudo-random terrain in 3D with basic camera controls and shaders."
+    }
+  ],
+  "awards": [
+    {
+      "awarder": "",
+      "title": "Languages Known",
+      "summary": "English, Hindi, Marathi"
+    },
+    {
+      "title": "D.O.B",
+      "summary": "04/11/1998"
+    },
+    {
+      "title": "Hobbies",
+      "summary": "Contributing to Open Source projects, Game development, Swimming and Speed cubing."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
