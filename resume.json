@@ -1,34 +1,34 @@
 {
   "selectedTemplate": 3,
   "headings": {
-    "work": "",
-    "education": "Education",
-    "skills": "Skills",
-    "projects": "Projects",
-    "awards": "Personal Details"
+    "education": "",
+    "skills": "",
+    "projects": "College Projects",
+    "awards": ""
   },
   "basics": {
     "name": "Vinay Patil",
     "email": "vinaypatil41198@gmail.com",
-    "phone": "9833022616, 9137097069",
+    "phone": "9833022616 / 9137097069",
+    "website": "",
     "location": {
       "address": "Vashi, Navi Mumbai"
     }
   },
   "education": [
     {
+      "institution": "Mumbai University",
       "location": "Smt. Indira Gandhi College of Engineering, Ghansoli",
       "area": "Computer Entineering",
       "studyType": "B.E.",
-      "gpa": "7.64",
-      "institution": "Mumbai University",
-      "startDate": "Jun 2016",
-      "endDate": "Oct 2020"
+      "startDate": " Jun 2016",
+      "endDate": "Oct 2020",
+      "gpa": "7.64"
     },
     {
       "institution": "H.S.C",
       "location": "K.B.P College, Vashi",
-      "area": "Computer Vocational",
+      "studyType": "Computer Vocational",
       "gpa": "71.23%",
       "startDate": "Jun 2014",
       "endDate": "May 2016"
@@ -42,14 +42,18 @@
   ],
   "work": [
     {
-      "company": "",
-      "location": "",
-      "position": "",
+      "company": "ACL Digital",
+      "location": "Reliance Corporate Park, Ghansoli",
+      "position": "Sr Software Engineer",
       "website": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "Dec 2021",
+      "endDate": "Present",
       "highlights": [
-        ""
+        "Automating service workflows for Reliance Client",
+        "Developing fast and robust portals which manage interaction between stakeholders and clients.",
+        "Develop, maintain, migrate, upgrade and add new features to existing Drupal websites.",
+        "Gather requirement and develop high quality web apps to automate technical services.",
+        "Test and deploy the websites on Centos servers."
       ]
     }
   ],
@@ -57,59 +61,64 @@
     {
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "C#",
-        "Python",
+        "PHP",
+        "JavaScript",
         "HTML",
         "CSS",
-        "JavaScript",
-        "SQL"
+        "SQL",
+        "Python",
+        "Java",
+        "C",
+        "C++"
       ],
       "name": "Programming Languages:"
     },
     {
       "keywords": [
-        "Linux"
+        "Drupal",
+        "JQuery",
+        "Node.js",
+        "Babel.js",
+        "MySQL, MariaDB",
+        "Grafana, InfluxDB, Telegraf"
       ],
-      "name": "Operating Systems:"
+      "name": "Technologies:"
     },
     {
       "keywords": [
-        "Unity",
-        "Unreal Engine 4",
-        "Godot"
+        "Linux",
+        "Centos",
+        "Ubuntu"
       ],
-      "name": "Game Development Engines:"
+      "name": "Operating Systems"
     }
   ],
   "projects": [
     {
       "name": "Pseudocode to Python Translation using Machine Learning (BE project)",
+      "description": "A Python program which translates pseudocode into python using modified sequential Seq2Seq model using Keras and Tensorflow.",
       "url": "",
       "keywords": [
-        null
-      ],
-      "description": "A Python program which translates pseudocode into python using modified sequential Seq2Seq model using Keras and Tensorflow."
+        ""
+      ]
     },
     {
       "keywords": [
-        null
+        ""
       ],
       "name": "Chatbot using Machine Learning (TE project)",
       "description": "A chatbot application written in Python, made using Sequence-to-Sequence Model in Tensorflow."
     },
     {
       "keywords": [
-        null
+        ""
       ],
       "name": "Social Networking website using PHP, MySQL and Bootstrap.",
       "description": "A website for sending messages. Option for sending tweets-like global posts and private messages. Mechanism for adding and deleting friends."
     },
     {
       "keywords": [
-        null
+        ""
       ],
       "name": "3D Procedural Terrain generation using OpenGL in Java.",
       "description": "Created an application to programmatically generate pseudo-random terrain in 3D with basic camera controls and shaders."
@@ -117,17 +126,10 @@
   ],
   "awards": [
     {
+      "title": "",
+      "date": "",
       "awarder": "",
-      "title": "Languages Known",
-      "summary": "English, Hindi, Marathi"
-    },
-    {
-      "title": "D.O.B",
-      "summary": "04/11/1998"
-    },
-    {
-      "title": "Hobbies",
-      "summary": "Contributing to Open Source projects, Game development, Swimming and Speed cubing."
+      "summary": ""
     }
   ],
   "sections": [
